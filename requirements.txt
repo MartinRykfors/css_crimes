@@ -1,0 +1,10 @@
+airium==0.2.5
+exceptiongroup==1.1.1
+iniconfig==2.0.0
+numpy==2.0.0
+packaging==23.1
+pluggy==1.0.0
+pypng @ git+https://gitlab.com/drj11/pypng@53def9045e269d05ed96c446b942fb45b3a51f62
+pytest==7.3.1
+scipy==1.13.1
+tomli==2.0.1

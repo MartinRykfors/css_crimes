@@ -1,0 +1,7 @@
+__pycache__
+venv/
+.venv/
+*.~undo-tree~
+post.html
+.vscode
+output/

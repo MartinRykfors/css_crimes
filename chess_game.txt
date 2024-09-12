@@ -1,0 +1,71 @@
+
+E: Let's play chess! Your move!
+
+[the chess board is in front of you. the white king's pawn is highligted]
+Y: *clicks the highlighted pawn
+
+[the pawn moves to e4]
+
+E (surprised): Ooooh, the semi-argentinian opening! You must be a pro!
+
+E: Ok, my turn.
+
+E: I play Eggbug's blessing, giving me +3 actions!
+
+[A card hovers above the board allowing you to read it. The card moves down to the side]
+
+Y: I don't remember there being cards in Chess?
+
+E: I move my knight to f6!
+
+E: Second action, I equip my knight with a Railgun!
+
+[A card hovers above the board allowing you to read it. It shows a q3 railgun. The card moves down to the side]
+
+Y: What!? Railguns?
+
+E: Final action, fire railgun! Roll for accuracy!
+
+[A d20 is rolled, eventually stopping showing a 20]
+
+[The knight begins glowing, then quickly emits a beam at your king. The entire board shakes.]
+
+[Your king is gone, only a scorch mark remains]
+
+E: *pauses
+
+E (joyful): Checkmate! I win!
+
+Y: Eggbug. This variant of chess does not seem fair. I don't even have any cards.
+
+E: Oh? Ok, have a booster pack, on the house!
+
+[A booster pack appears]
+
+[You click it]
+
+[The booster pack is replaced with a card]
+
+Card: Dowsing rod. Turn a random square occupied by a friendly piece into a water tile.
+
+E: Let's play again!
+
+Y: Um, this card does not seem very good, but whatever. I'll give it a try.
+
+Y: *Plays Dowsing rod
+
+[Your king tile turns blue.]
+
+[Your king vanishes].
+
+E: Hm. You drowned your king.
+
+E: *Pauses
+
+E: I win!
+
+Y: I'm not sure I like this chess variant, Eggbug.
+
+E: Practice makes perfect!
+
+Y: Seems more like booster packs make perfect.
